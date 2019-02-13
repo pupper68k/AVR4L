@@ -1890,7 +1890,7 @@ public class Main_Frame extends javax.swing.JFrame {
         });
 
         split_pane.setDividerLocation(370);
-        split_pane.setOrientation(javax.swing.JSplitPane.VERTICAL_SPLIT);
+        split_pane.setOrientation(javax.swing.JSplitPane.HORIZONTAL_SPLIT);
         split_pane.setContinuousLayout(true);
 
         console_pane.setEditable(false);
